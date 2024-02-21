@@ -11,6 +11,7 @@ This project aims to develop a web forum with the following functionalities:
 - Allow associating categories to posts.
 - Enable liking and disliking of posts and comments.
 - Implement a filtering mechanism for posts.
+- Added TWO Authoristion APIs Google and Github ones. 
 
 ## SQLite Database
 
@@ -30,6 +31,7 @@ Users must be able to register as new users for the forum by providing their cre
 - Implementation of cookies to ensure a single active session per user with an expiration date.
 - Registration should prompt for email, username, and password (bonus task: encryption of passwords).
 - Handling of error responses for existing email and incorrect credentials.
+- There two more additional options: Google Sign up and Sign in and Github sign up/in.
 
 ## Communication
 
